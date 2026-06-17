@@ -1,3 +1,5 @@
+<img src="Huna-cover.png" />
+
 # 👋 Welcome to Huna
 
 Learn.
