@@ -1,13 +1,20 @@
-# Welcome to Huna 👋
-
-Huna is a community where people learn, build, and execute together.
-
-We believe the best way to learn is by creating real projects, sharing knowledge openly, and helping each other grow.
-
-Our GitHub organization hosts community projects, open-source tools, learning resources, and collaborative initiatives.
-
-Whether you're contributing your first pull request or leading a project, you're welcome here.
+# 👋 Welcome to Huna
 
 Learn.
 Build.
 Execute.
+
+Huna is a community dedicated to learning through collaboration and building real-world projects.
+
+## What you'll find
+
+- 🚀 Community projects
+- 📚 Learning resources
+- 💡 Open-source tools
+- 🤝 Collaborative initiatives
+
+Whether you're just starting or already experienced, Huna is a place to learn, build, and execute together.
+
+---
+
+Join the community.
